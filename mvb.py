@@ -177,10 +177,11 @@ def banner():
       if "win" in sys.platform:os.system("cls")
       else:os.system("clear")
       print(f'''{biru}
-8b    d8 88""Yb     8888b.  88 888888 .dP"Y8 .dP"Y8 
-88b  d88 88__dP      8I  Yb 88   88   `Ybo." `Ybo." 
-88YbdP88 88"Yb  .o.  8I  dY 88   88   o.`Y8b o.`Y8b 
-88 YY 88 88  Yb `"' 8888Y"  88   88   8bodP' 8bodP' 
+  _╱_╱╱  _╱╱╱_╱╱╱  _╱╱╱╱__╱╱╱╱ _╱╱  _╱╱╱__╱╱╱
+╱▉╱◣_╱▉▔◣_╱▉▔◤_╱▉◣◢▉_╱▉▔◣_╱▉_╱▉╱◣ _╱╱
+╱▉◢◤_╱▉▁◤ _╱▉■■  _╱▉◥◤▉_╱▉■▉_╱▉_╱▉◢◤ _╱╱╱
+╱▉◥◣_╱▉◥◣_╱▉◥◣ _╱▉╱_▉_╱▉▁◤ _╱▉_╱▉◥◣_╱_╱
+╱◥╱╱  _╱╱╱_╱╱╱  _╱╱╱╱__╱╱╱╱ _╱╱_╱◥╱╱___╱' 
 {puti}Update   : {biru}Mr.DiTsS
 {puti}Script : {biru}Facebook
 {puti}Tools    : {biru}Razor & MR.DiTsS
